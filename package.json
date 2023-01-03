@@ -2,8 +2,8 @@
   "name": "nestjs-pino",
   "version": "3.1.1",
   "description": "Pino logger for NestJS",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest --verbose -i --detectOpenHandles",
     "lint": "eslint \"{src,__tests__}/**/*.ts\" --fix",
